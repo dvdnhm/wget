@@ -1,0 +1,5 @@
+C:\Dropbox (Right Brain Media)\works\ASP.Net\wGet\wget\bin\Release\wget.exe
+C:\Dropbox (Right Brain Media)\works\ASP.Net\wGet\wget\bin\Release\wget.pdb
+C:\Dropbox (Right Brain Media)\works\ASP.Net\wGet\wget\obj\Release\wget.csprojResolveAssemblyReference.cache
+C:\Dropbox (Right Brain Media)\works\ASP.Net\wGet\wget\obj\Release\wget.exe
+C:\Dropbox (Right Brain Media)\works\ASP.Net\wGet\wget\obj\Release\wget.pdb
